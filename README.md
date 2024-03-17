@@ -8,15 +8,15 @@ English | [简体中文](https://github.com/sorawithvideos/sorawithvideos/blob/m
 # Project Plan
 - ✅ Generate video by words(Use [FakeSoraAPI](https://github.com/sorawithvideos/FakeSoraAPI)):
 
-  You can see this feature in 👉 [main](https://github.com/sorawithvideos/sorawithvideos/tree/main) or 👉 [version-0.1](https://github.com/sorawithvideos/sorawithvideos/tree/version-0.1)
+  You can see this feature in 👉 [main](https://github.com/sorawithvideos/sorawithvideos/tree/main) or 👉 [version-0.1](https://github.com/sorawithvideos/sorawithvideos)
 
 - ✅ Login with Google:
 
-  You can see this feature in 👉 [login](https://github.com/sorawithvideos/sorawithvideos/tree/login) or 👉 [version-0.2](https://github.com/sorawithvideos/sorawithvideos/tree/version-0.2)
+  You can see this feature in 👉 [login](https://github.com/sorawithvideos/sorawithvideos/tree/login) or 👉 [version-0.2](https://github.com/sorawithvideos/sorawithvideos)
 
 - ✅ Google One Tap Login:
 
-  You can see this feature in 👉 [login](https://github.com/sorawithvideos/sorawithvideos/tree/login) or 👉 [version-0.3](https://github.com/sorawithvideos/sorawithvideos/tree/version-0.3)
+  You can see this feature in 👉 [login](https://github.com/sorawithvideos/sorawithvideos/tree/login) or 👉 [version-0.3](https://github.com/sorawithvideos/sorawithvideos)
 
 - [ ] Stripe payment：
 
@@ -30,7 +30,7 @@ English | [简体中文](https://github.com/sorawithvideos/sorawithvideos/blob/m
 ## Quick Started
 
 ### Deploy on Vercel
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FSoraWebui%2FSoraWebui&project-name=sorawithvideos&repository-name=sorawithvideos&external-id=https%3A%2F%2Fgithub.com%2FSoraWebui%2FSoraWebui%2Ftree%2Fmain)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsorawithvideos%2FSoraWebui&project-name=sorawithvideos&repository-name=sorawithvideos&external-id=https%3A%2F%2Fgithub.com%2Fsorawithvideos%2Fsorawithvideos%2Ftree%2Fmain)
 
 ### 1. Clone project
 
@@ -71,7 +71,7 @@ pnpm dev
 ```
 
 ### 5. Open [http://localhost](http://localhost) with your browser to see it.
-![success_deploy.jpg](https://sorawithvideos.com/success_deploy.jpg)
+![success_deploy.jpg](src/success_deploy.jpg)
 
 
 # Important
